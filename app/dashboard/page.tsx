@@ -3,6 +3,7 @@ export default function Dashboard() {
     <div style={{ textAlign: 'center', padding: '50px' }}>
       <h1>Dashboard</h1>
       <p>Welcome to the dashboard page!</p>
+      <p>i love dashboard page!</p>
     </div>
   );
 }
